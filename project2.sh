@@ -1,6 +1,7 @@
-#
-# for loop to process stock list
-#
+##Simple Bash Script to collect information
+##About stocks listed in the "stocks.txt" file
+
+#!/bin/bash
 clear
 
 while true
